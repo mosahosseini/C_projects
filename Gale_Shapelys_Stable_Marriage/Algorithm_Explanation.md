@@ -40,8 +40,8 @@ Because Orm and Ylva both are their eachothers first choice , they will break th
 {(Orm , Ylva) , (Toke , Ingrid)}
 
 
-## Dave Shapleys Algorithm
-Dave Shapleys Algorithm finds a stable matching ![alt text](image.png)
+## Gale Shapleys Algorithm
+Glae Shapleys Algorithm finds a stable matching ![alt text](image.png)
 
 Lets go through the algorithm. 
 
@@ -55,7 +55,7 @@ Lets go through the algorithm.
 
 
 
-## Example of Dave Shapely algorithm
+## Example of Gale Shapely algorithm
 
 Each person if give a number. 
 
